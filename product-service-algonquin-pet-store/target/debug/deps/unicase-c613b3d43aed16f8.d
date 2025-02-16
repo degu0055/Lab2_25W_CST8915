@@ -1,0 +1,10 @@
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/libunicase-c613b3d43aed16f8.rmeta: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs
+
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/libunicase-c613b3d43aed16f8.rlib: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs
+
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/unicase-c613b3d43aed16f8.d: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs
+
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs:

@@ -1,0 +1,10 @@
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/liblock_api-681771a418332903.rmeta: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/liblock_api-681771a418332903.rlib: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/lock_api-681771a418332903.d: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs:

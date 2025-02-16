@@ -1,0 +1,10 @@
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/libautocfg-29d2894a53bef606.rmeta: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/error.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/rustc.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/version.rs
+
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/libautocfg-29d2894a53bef606.rlib: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/error.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/rustc.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/version.rs
+
+/Users/romeodeguzmanii/Documents/Winter2025/15-Mon/Lab/Algonquin_Pet_Store_25W_CST8915/product-service/target/debug/deps/autocfg-29d2894a53bef606.d: /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/lib.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/error.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/rustc.rs /Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/version.rs
+
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/lib.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/error.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/rustc.rs:
+/Users/romeodeguzmanii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.3.0/src/version.rs:
